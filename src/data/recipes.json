@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "ChocolateChipCookies",
+        "ingredients": "1 cup (2 sticks) unsalted butter, softened. 3/4 cup granulated sugar. 3/4 cup packed brown sugar. 2 large eggs. 1 teaspoon vanilla extract. 2 1/4 cups all-purpose flour. 1 teaspoon baking soda. 1/2 teaspoon salt. 2 cups chocolate chips. 1 cup chopped nuts (optional)",
+        "instructions": "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper. In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy. Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract. In a separate bowl, whisk together the all-purpose flour, baking soda, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Stir in the chocolate chips and chopped nuts (if using). Drop rounded tablespoons of dough onto the prepared baking sheet, spacing them about 2 inches apart. Bake in the preheated oven for 9 to 11 minutes or until the edges are lightly golden. Remove from the oven and let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely. Enjoy your delicious homemade Chocolate Chip Cookies!",
+        "cookingTime": 60,
+        "publicationDate": "2022-07-15T00:00:00Z"
+    },
+    {
+        "id": 2,
+        "name": "AvocadoToast",
+        "ingredients": "1 ripe avocado. 2 slices of bread, toasted. Salt and black pepper to taste. Optional toppings: cherry tomatoes, feta cheese, red pepper flakes",
+        "instructions": "Cut the avocado in half, remove the pit, and scoop the flesh into a bowl. Mash the avocado with a fork until smooth. Season with salt and black pepper to taste. Spread the mashed avocado evenly on the toasted bread slices. Add your favorite toppings, such as halved cherry tomatoes, crumbled feta cheese, or a sprinkle of red pepper flakes. Enjoy your delicious and healthy Avocado Toast!",
+        "cookingTime": 10,
+        "publicationDate": "2022-07-19T00:00:00Z"
+    }
+]
